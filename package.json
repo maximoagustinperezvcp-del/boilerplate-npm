@@ -1,20 +1,5 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Maximo",
-  "description": "fcc backend boilerplate",
-  "version": "0.0.1",
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "hyperdev",
-    "express",
-    "freecodecamp"
-  ],
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  }
+  "version": "1.0.0"
 }
